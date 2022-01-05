@@ -8,35 +8,8 @@
 def fetch_text():
 
     self = """
-THE SPIDER FOMO IS COMING!
-AND WITH GREAT FOMO COMES GREAT XPONSIBILITY!
-
-
-SPIDER TOKEN 🕷
-
-Symbol: $SPIDEY
-
-The spider token is built as a meme token with exclusive NFTs - unique digital collectibles.
-
-WL PRESALE ON PINKSALE - Wednesday 15th DEC 2021
-
-🔐 KYC with Pinksale
-💪 Doxxed CA DEV
-🔒 70% LP LOCKED
-🖼 Exclusive NFTs
-
-📈 1,000,000 TOTAL TOKEN SUPPLY
-
-
-Tokenomics
-
-3% - liquidity 
-6% - marketing 
-1% - dev
-
-I AM BULLISH 🚀
-
-TG COMMUNITY: t.me/spidertokens"""
+place your message here
+"""
 
     return self
 
